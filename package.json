@@ -1,6 +1,6 @@
 {
   "name": "book-api",
-  "homepage": "https://aami-12.github.io/react-search-api",
+  "homepage": "https://aami-12.github.io/book-search-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
